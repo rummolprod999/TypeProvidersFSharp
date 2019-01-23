@@ -25,6 +25,10 @@
           "target": "Package",
           "version": "[4.2.*, )"
         },
+        "FSharp.Data": {
+          "target": "Package",
+          "version": "[3.0.0, )"
+        },
         "Microsoft.NETCore.App": {
           "suppressParent": "All",
           "target": "Package",
